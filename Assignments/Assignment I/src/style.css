@@ -39,3 +39,6 @@ aside a:link {
 aside a:visited {
   color: black;
 }
+aside a:hover {
+  text-decoration: none;
+}
